@@ -1,3 +1,8 @@
+# Version: 0.4.0
+
+* [#8](https://github.com/robinmatz/changelog-ci-poc-v2/pull/8): Create feature f
+
+
 # Version: 0.3.0
 
 * [#5](https://github.com/robinmatz/changelog-ci-poc-v2/pull/5): Create feature e
