@@ -1,3 +1,24 @@
+# Version: 0.5
+
+
+#### Bug Fixes
+
+* [#12](https://github.com/robinmatz/changelog-ci-poc-v2/pull/12): Fixed feature_d
+
+#### Code Improvements
+
+* [#11](https://github.com/robinmatz/changelog-ci-poc-v2/pull/11): Created feature h
+
+#### Documentation Updates
+
+* [#10](https://github.com/robinmatz/changelog-ci-poc-v2/pull/10): Updated the docs
+
+#### Unlabeled Changes
+
+* [#8](https://github.com/robinmatz/changelog-ci-poc-v2/pull/8): Create feature f
+* [#9](https://github.com/robinmatz/changelog-ci-poc-v2/pull/9): Release 0.4.0
+
+
 # Version: 0.4.0
 
 * [#8](https://github.com/robinmatz/changelog-ci-poc-v2/pull/8): Create feature f
