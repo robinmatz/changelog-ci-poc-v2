@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "changelog-ci-poc-v2"
-version = "0.4.0"
+version = "0.4.1"
 description = "This is a poc for changelog-ci"
 authors = ["Robin Matz <robin.s.matz@gmail.com>"]
 license = "MIT"
